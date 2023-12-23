@@ -1,4 +1,4 @@
-# TNEB Management System - Web Version
+# ⚡TNEB
 
 ## Overview
 
